@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aziz N. Zeidieh",
+    "section": "",
+    "text": "My name is Aziz Zeidieh, and I am a second-year Ph.D. student in Informatics at the University of Illinois Urbana-Champaign, advised by Prof. JooYoung Seo. My research seeks to leverage artificial intelligence to advance the field of orientation and mobility (O&M) for blind and visually impaired (BVI) individuals, as well as certified orientation and mobility specialists (COMS). I am currently exploring how multimodal large language models can be used to facilitate accessible and interactive applications that support the spatial orientation of BVI travelers within indoor environments.\nMy dissertation and ongoing research will also investigate the security and privacy implications and perceptions of AI-powered O&M tools. These tools promise to create a more technologically interdependent travel experience for BVI individuals, but societal concerns about privacy trade-offs may hinder their responsible adoption and widespread use."
+  }
+]
